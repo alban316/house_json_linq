@@ -1,0 +1,8 @@
+C:\Users\jbrugger\repo\linq\linq3\bin\Debug\linq3.exe.config
+C:\Users\jbrugger\repo\linq\linq3\bin\Debug\linq3.exe
+C:\Users\jbrugger\repo\linq\linq3\bin\Debug\linq3.pdb
+C:\Users\jbrugger\repo\linq\linq3\obj\Debug\linq3.exe
+C:\Users\jbrugger\repo\linq\linq3\obj\Debug\linq3.pdb
+C:\Users\jbrugger\repo\linq\linq3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jbrugger\repo\linq\linq3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbrugger\repo\linq\linq3\obj\Debug\linq3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,63 @@
+{
+	"cave": {
+		"rooms": [
+			{
+				"id": 1,
+				"name": "Atrium",
+				"description": "It is an open space with a high ceiling made entirely of glass.",
+				"navigable": [
+					2,3
+				],
+				"pickable": [
+					1,2
+				]
+			},
+			
+			{
+				"id": 2,
+				"name": "Pawn Shop",
+				"description": "A sign overhead reads 'We buy and sell most everything!'",
+				"navigable": [
+					1
+				],
+				"pickable": [
+					3
+				]
+			},
+
+			{
+				"id": 3,
+				"name": "Food Court",
+				"description": "There are two restaurants here: Chik-fil-A, and Taco Time; as well as numerous tables.",
+				"navigable": [
+					1
+				],
+				"pickable": [
+				]
+			}
+		],
+
+		"items": [
+			{
+				"id": 1,
+				"name": "Frisbee",
+				"isFixed": false,
+				"value" : 5
+			},
+			
+			{
+				"id": 2,
+				"name": "Tree",
+				"isFixed": true,
+				"value" : 0
+			},
+			
+			{
+				"id": 3,
+				"name": "Casio Watch",
+				"isFixed": false,
+				"value": 5
+			}
+		]
+	}
+}
